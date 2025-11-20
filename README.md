@@ -2,7 +2,7 @@
 
 A passionate Backend developer
 - 🔭 Currently building backend and full-stack projects   
-- 🌱 Strengthening **Java, Spring Boot, SQL, System Design, DSA**  
+- 🌱 Strengthening **Java, Spring Boot, SQL, System Design**  
 - 👯 Open to collaborating on backend / web application projects  
 - 💬 Ask me about **Java, REST APIs, Spring Boot, SQL, backend architecture**  
 
