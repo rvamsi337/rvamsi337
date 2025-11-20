@@ -11,8 +11,7 @@ A passionate Backend developer
 
 
 ## 🛠 Skills & Technologies  
-
-### Languages  
+ 
 <p align="left">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
@@ -34,7 +33,6 @@ A passionate Backend developer
   </a>
 </p>
 
-### Frontend  
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -53,7 +51,7 @@ A passionate Backend developer
   </a>
 </p>
 
-### Backend  
+
 <p align="left">
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
@@ -63,7 +61,7 @@ A passionate Backend developer
   </a>
 </p>
 
-### Databases  
+
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
@@ -76,7 +74,7 @@ A passionate Backend developer
   </a>
 </p>
 
-### DevOps & Deployment  
+  
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
@@ -89,7 +87,7 @@ A passionate Backend developer
   </a>
 </p>
 
-### Developer Tools  
+ 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
