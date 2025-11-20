@@ -7,7 +7,7 @@ A passionate Backend developer
 - 💬 Ask me about **Java, REST APIs, Spring Boot, SQL, backend architecture**  
 
 ## Contact Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/raghuvamsi-mallampalli)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raghuvamsi-mallampalli/)
 
 
 ## 🛠 Skills & Technologies  
