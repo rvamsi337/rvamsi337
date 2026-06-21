@@ -3,9 +3,9 @@
 A passionate Backend developer
 
 - 🔭 Currently building backend and full-stack projects
-- 🌱 Strengthening **Java, Spring Boot, SQL, System Design**
+- 🌱 Strengthening **Java, Spring Boot, Microservices, SQL, System Design**
 - 👯 Open to collaborating on backend / web application projects
-- 💬 Ask me about **Java, REST APIs, Spring Boot, SQL, backend architecture**
+- 💬 Ask me about **Java, REST APIs, Spring Boot, Microservices, SQL, backend architecture**
 
 ## Contact Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raghuvamsi-mallampalli/)
