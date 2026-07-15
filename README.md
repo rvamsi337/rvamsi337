@@ -1,39 +1,36 @@
 # Hi 👋, I'm Raghuvamsi Mallampalli
 
-A passionate Backend developer
+A passionate Full Stack Java Developer
 
-- 🔭 Currently building backend and full-stack projects
-- 🌱 Strengthening **Java, Spring Boot, Microservices, SQL, System Design**
-- 👯 Open to collaborating on backend / web application projects
-- 💬 Ask me about **Java, REST APIs, Spring Boot, Microservices, SQL, backend architecture**
-
-## Contact Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raghuvamsi-mallampalli/)
+- 🔭 Currently building full-stack and backend applications
+- 🌱 Strengthening **Java, Spring Boot, React, Angular, Microservices, SQL, System Design**
+- 👯 Open to collaborating on full-stack / backend web application projects
+- 💬 Ask me about **Java, Spring Boot, React, Angular, REST APIs, Microservices, SQL, backend architecture**
 
 ---
 
 ## 🛠 Skills & Technologies
 
-**Languages**
+### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,cs)](https://skillicons.dev)
 
-**Frontend**
+### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,angular,bootstrap,tailwind)](https://skillicons.dev)
 
-**Backend & Frameworks**
+### Backend & Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=spring,dotnet)](https://skillicons.dev)
 
-**Databases**
+### Databases
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,oracle)](https://skillicons.dev)
 
-**DevOps & Tools**
+### DevOps & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,jenkins)](https://skillicons.dev)
 
-**Other Tools**
+### Other Tools
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,postman)](https://skillicons.dev)
