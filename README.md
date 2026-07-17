@@ -1,4 +1,4 @@
-# Hi 👋, I'm Raghuvamsi Mallampalli
+# Hi 👋, I'm Raghu Vamsi
 
 A passionate Full Stack Java Developer
 
